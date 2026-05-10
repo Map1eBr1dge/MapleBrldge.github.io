@@ -1,0 +1,26 @@
+{
+  "name": "maplebridge",
+  "version": "1.0.0",
+  "description": "mapbridge-blog",
+  "keywords": [
+    "Maplebrldge"
+  ],
+  "homepage": "https://github.com/Map1eBr1dge/MapleBrldge.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/Map1eBr1dge/MapleBrldge.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Map1eBr1dge/MapleBrldge.github.io.git"
+  },
+  "license": "ISC",
+  "author": "Maplebrldge",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.29"
+  }
+}
